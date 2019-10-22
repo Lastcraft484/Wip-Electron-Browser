@@ -1,6 +1,6 @@
-# electron-quick-start
+# Gmail desktop client
 
-**Clone and run for a quick way to see Electron in action.**
+**dont bother running this, it has not been worked on in a very long time and is very broken**
 
 this is a terrible web browser that I made because I wanted to mess around with electron.
 
